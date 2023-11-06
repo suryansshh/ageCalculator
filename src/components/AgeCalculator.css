@@ -1,0 +1,32 @@
+.age-calculator-container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.input-section {
+    margin-top: 20px;
+    font-weight: 900;
+}
+
+.value-section {
+    margin-top: 20px;
+    width: 250px;
+    height: 30px;
+    border: 1px solid rgb(177, 177, 177);
+    border-radius: 5px;
+}
+
+.calculate-button {
+    padding: 8px 18px;
+    color: white;
+    margin-top: 30px;
+    font-size: medium;
+    background-color: #027afd;
+    border-radius: 5px;
+    border: none;
+}
+
+.output {
+    font-size: large;
+    font-weight: 900;
+}
